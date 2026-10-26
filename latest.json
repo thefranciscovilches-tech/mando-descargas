@@ -1,0 +1,11 @@
+{
+  "version": "0.4.0",
+  "notes": "Mejoras y correcciones",
+  "pub_date": "2026-10-26T21:52:37.117Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaUpPZllBem1FUTVXWkxrZzcvZklBMDR5Z0VMQ3lJbzk1UlFOazhETXVDNkJCUXhlMlBMaStISUdYdU5LS1o1UjJmbVpuZXRQbXpadVkyQkFnSEhWT0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDUxNTU0CWZpbGU6TWFuZG9fMC40LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNC4wCkMwenFMYkE0aWhCc3N3TmVYMTN6ZGl6ak9rT3V5T0FxL1JTeExpSUluL0hnVGVoRHVMaXMvQUpHMmlVWFl4ZmhtOXFmUTVsWGVhMWxyTU5KM1RZb0F3PT0K",
+      "url": "https://github.com/thefranciscovilches-tech/mando-descargas/releases/latest/download/Mando-instalador.exe"
+    }
+  }
+}
