@@ -1,10 +1,10 @@
 {
-  "version": "0.12.0",
-  "notes": "- **Adiós al menú de Edge**: el clic derecho ya no muestra \"Más herramientas\" ni \"Inspeccionar\". En cuadros de texto sale un menú propio: Cortar, Copiar, Pegar y Seleccionar todo.\n- **Sin atajos de navegador**: F5, Ctrl+R, Ctrl+P, Ctrl+F, F12 y el zoom con Ctrl+rueda ya no hacen nada raro. También en WhatsApp, Instagram, YouTube Music y el overlay.\n- **Pantalla completa**: Mando ocupa toda la pantalla y tapa la barra de tareas. Cámbialo con el botón de arriba a la derecha o con F11.",
-  "pub_date": "2026-10-27T04:02:31.935Z",
+  "version": "0.12.1",
+  "notes": "- **Pantalla completa limpia**: ya no aparece la línea ni el título \"Mando\" arriba al hacer Alt+Tab o minimizar.\n- **Detección del juego**: los ayudantes de Epic (como EpicOnlineServicesUserHelper) ya no se toman como juego.",
+  "pub_date": "2026-10-27T05:10:14.807Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaU10MGwybnZYL1QzNWFyYjdUeTZKaWY1WGFsak5zMDJBdFZkbzNGZmZ2SkNFZUpJNlEvYXo5VEN2WHl1QytMUWxHQkhZOHVDTWgxcWs5N3UxcEl5MGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDczNzQ5CWZpbGU6TWFuZG9fMC4xMi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEyLjAKS0VkRExySWF0SWI3anVRK2E1N0xzVWgzN3RZNGM5Q2ZJRHhKR3FPMjZYb09NWWtaMXFIZmFJbzBiQW1rVUEzWDVYd2dwYTRFWjlzVncwbk9rdEw2RGc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaU1ZcTNPK2VSU2VSa0tvK0lqOWVSc3FnaFIvajQ2a2doRng0VGJua0NKcHIxRmVuRWlibGVOM3V6VUVvYXJ0bEVkNHM1ZVZFb05POWNiU29rVTgxbndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDc3ODEyCWZpbGU6TWFuZG9fMC4xMi4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEyLjEKZGFuYWI1d1VTWVR4RHpobVRtVmpGWGdVNE5UejV2MzRNeWc1L1JjcWdVaEMyMGpLUldpM1A0RkdQU05TcTNEbC95VGszR0txWklwVEprOFppeHNoQnc9PQo=",
       "url": "https://github.com/thefranciscovilches-tech/mando-descargas/releases/latest/download/Mando-instalador.exe"
     }
   }
