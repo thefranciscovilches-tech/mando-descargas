@@ -1,4 +1,4 @@
-## Mando 0.9
+## Mando 0.9.1
 
 **Descarga `Mando-instalador.exe`** y ábrelo. Se instala solo (sin permisos de administrador) y después **se actualiza solo**.
 
@@ -8,3 +8,4 @@ Si Windows muestra "Windows protegió su PC": **Más información → Ejecutar d
 - **Overlay en juego**: llamada de Discord, música, avisos de mensajes, FPS, rendimiento y hora encima de tus juegos (en ventana o sin bordes). Se edita en pantalla. Ctrl+Shift+O lo muestra u oculta.
 - **Contador de FPS** sin tocar el juego.
 - **Vigía de NVIDIA**: te avisa (y puede reactivarla) si la repetición instantánea se apaga sola.
+- Discord: muestra si está escuchando tus mensajes y cómo activarlos.
