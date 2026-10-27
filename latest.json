@@ -1,10 +1,10 @@
 {
-  "version": "0.15.0",
-  "notes": "- **Barra lateral ordenada**: secciones en grupos y un botón abajo para ordenarla a tu gusto (arrastrar, ocultar, separadores y modo solo íconos).\n- **Turbo extremo**: prioridad del juego en la tarjeta de video, temporizador a 0,5 ms, RAM reservada para el juego, fondo al mínimo, plan Máximo rendimiento y limpieza de RAM automática.\n- **Nuevos ajustes**: instalar el plan Máximo rendimiento, temporizador de alta precisión y puntería sin aceleración del mouse.",
-  "pub_date": "2026-10-27T06:11:13.181Z",
+  "version": "0.16.0",
+  "notes": "- **SA-MP dentro de Mando**: agrega samp.exe a tu Biblioteca y aparece en la barra con tu lista de servidores.\n- **Favoritos e Internet**: tus favoritos de SA-MP se traen solos; la pestaña Internet muestra los servidores públicos.\n- **En vivo**: jugadores, ping con gráfico, modo, idioma, versión y quién está jugando.\n- **Tus nombres**: con la flecha eliges uno de los nombres que ya usaste. Doble clic en un servidor para entrar.",
+  "pub_date": "2026-10-27T06:28:41.072Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaUVWeDVNMGZXWGJERU13VFpOVjNzK2VQaTVqczJkK0FBUTlIbzJqQ0R6ZndmL2UvVDJkNXdvQzFOc0ZRbFBHWUdDeXJqanhxMzVkQnlqY3NzRlptTlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDgxNDcxCWZpbGU6TWFuZG9fMC4xNS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjE1LjAKV0I1cjVqc0lENUMwYmZWWENVNlZUNW9BbTJGZVVQUHNrMm9ramNEcGNQNC9rTmkvcHhHZ1c3dURqQkNyNVRDSmN2ZW9nTTJrYTVVcFNDd0toK1A3QVE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaUNXMm8wN2NQcnJNZXVGNm56c3oxYWlwYzRiNG5PYnlvemloQ2Y2dkVGTEs5eC94NmZET05QSmsrdEhWL1hpRTNyMnYvTjgyc3lubWk5bHU3anBmaWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDgyNTE4CWZpbGU6TWFuZG9fMC4xNi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjE2LjAKR0w5RjBBamErSXVIa2U4M3U3N1Z4YS8vWGhvRjBnVHF3ejR1TzJ1d1ZqeDhTMzRNUXA3MS9UL0RJSFkvR0VBbW9JQnVZRWhWb3A3NVhPMTF5OUQyRHc9PQo=",
       "url": "https://github.com/thefranciscovilches-tech/mando-descargas/releases/latest/download/Mando-instalador.exe"
     }
   }
