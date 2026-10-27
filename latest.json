@@ -1,10 +1,10 @@
 {
-  "version": "0.16.0",
-  "notes": "- **SA-MP dentro de Mando**: agrega samp.exe a tu Biblioteca y aparece en la barra con tu lista de servidores.\n- **Favoritos e Internet**: tus favoritos de SA-MP se traen solos; la pestaña Internet muestra los servidores públicos.\n- **En vivo**: jugadores, ping con gráfico, modo, idioma, versión y quién está jugando.\n- **Tus nombres**: con la flecha eliges uno de los nombres que ya usaste. Doble clic en un servidor para entrar.",
-  "pub_date": "2026-10-27T06:28:41.072Z",
+  "version": "0.16.1",
+  "notes": "- **SA-MP: ruta del GTA**: nuevo botón \"GTA\" para elegir dónde está tu gta_sa.exe, como en el SA-MP original. Revisa que esté samp.dll y te sugiere el GTA que está junto a samp.exe.\n- Si al conectar falta la ruta del GTA, Mando te la pide y después entra al servidor.",
+  "pub_date": "2026-10-27T06:43:17.760Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaUNXMm8wN2NQcnJNZXVGNm56c3oxYWlwYzRiNG5PYnlvemloQ2Y2dkVGTEs5eC94NmZET05QSmsrdEhWL1hpRTNyMnYvTjgyc3lubWk5bHU3anBmaWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDgyNTE4CWZpbGU6TWFuZG9fMC4xNi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjE2LjAKR0w5RjBBamErSXVIa2U4M3U3N1Z4YS8vWGhvRjBnVHF3ejR1TzJ1d1ZqeDhTMzRNUXA3MS9UL0RJSFkvR0VBbW9JQnVZRWhWb3A3NVhPMTF5OUQyRHc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaUR3YlVocFlMYW95T2ZUamxkZGJiZmdoNjBGd3VhSm9xTHRuM2I5Rm04ejVBMDFWQzJuNjNBdVVLc3dNQ1FwT2hkVGZxcndjNjBuWHdrU3gxRVFsTmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDgzMzk1CWZpbGU6TWFuZG9fMC4xNi4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjE2LjEKWDdSaXBtRmdKcjVWMHltclhwSTQ4dnM1aENZRzJjekNCd2t5bDl2VXF1QVFMcGF0UU4vN3JvZExPa0dEaDFTTEFSZFhZbVNod3NWSVBsYW9SQk01QlE9PQo=",
       "url": "https://github.com/thefranciscovilches-tech/mando-descargas/releases/latest/download/Mando-instalador.exe"
     }
   }
