@@ -1,10 +1,10 @@
 {
-  "version": "0.10.0",
-  "notes": "Mejoras y correcciones",
-  "pub_date": "2026-10-27T02:52:32.968Z",
+  "version": "0.11.0",
+  "notes": "- **Detecta bien el juego** (como Medal): reconoce la ventana del juego que usa DirectX/OpenGL/Vulkan e ignora cosas como EOSOVERLAYRENDER, Steam o Discord.\n- **Elige el juego a mano** si hace falta: Grabador → Juego → Cambiar.\n- **Audio sin desfase**: el audio de los clips ya no suena lento y queda sincronizado con el video.\n- **Avisos de actualización**: cuando haya versión nueva verás una barra con las novedades, un botón arriba y un punto en el logo.",
+  "pub_date": "2026-10-27T03:35:18.558Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaUFlN2J4ekJXSWJ1Ukp0akduK29JTlJlME5YSlZXeGtSd2NWbkpHbVBBM1JiYXVHc2pOaDN3V3Z2WjZnUmZRWlZsN1J1MjRGa1RZaDBDdHByMEZxWGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDY5NTUwCWZpbGU6TWFuZG9fMC4xMC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEwLjAKY2pHZjZKUGxOVVd0c2dKak1qNG00TnUwZ3RzRk41VDRhNzFhOGpsYUZrVEpYK0p6ZktFS1Y5UHlsbkhsTUdxNE5nQ1J2YVc0aExTWWRrdTlpM1Z4QVE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaUhQRkYwSks4UTBEYms4YnJ4S0xldGJGc21POGUyWmFBcithV0svbVNWQ1AwMDU1WG1keG5OODZKcFp1eE9sK21CK1NRL0hLS0JrZ1V1aXp2ejkxaEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDcyMTE2CWZpbGU6TWFuZG9fMC4xMS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjExLjAKbFpsVnVEZ214bVBKRS9saVpDQjR4eVZNaktlQ1VSUEl1anBHcDFIcTdWM3pFWG9YMXU1NTlDU21BbUVhNlVkRWZESUhTQTFDTU9OOThuc3Z5NUZGQ1E9PQo=",
       "url": "https://github.com/thefranciscovilches-tech/mando-descargas/releases/latest/download/Mando-instalador.exe"
     }
   }
