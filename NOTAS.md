@@ -1,11 +1,13 @@
-## Mando 0.5
+## Mando 0.6
 
-**Descarga `Mando-instalador.exe`** y ábrelo. Se instala solo (sin permisos de administrador), crea el acceso en el menú Inicio y después **se actualiza solo**.
+**Descarga `Mando-instalador.exe`** y ábrelo. Se instala solo (sin permisos de administrador) y después **se actualiza solo**.
 
 Si Windows muestra "Windows protegió su PC": **Más información → Ejecutar de todas formas**.
 
 ### Novedades
-- **Recortar clip**: en el reproductor, botón *Recortar* (o tecla R). Elige el inicio y el fin arrastrando los bordes o con las teclas I y O, revísalo con *Ver selección* y guárdalo. Se crea un video nuevo al lado y el original queda igual.
-- Modo *Exacto* (corta en el segundo justo) o *Rápido* (instantáneo, sin perder calidad), con la opción *Sin sonido*.
-- La galería ahora muestra solo las grabaciones de tu PC (Game Bar, NVIDIA, AMD, OBS y tus carpetas), con el filtro *Recortes*.
-- Arreglo: los avisos y las confirmaciones ahora se ven encima del reproductor.
+- **Clips**: los videos ya no se cortan al saltar o recortar. Si alguno no se puede ver directo (MKV, HEVC), Mando lo prepara para verlo ahí mismo.
+- Flechas ← y → para pasar al clip anterior o siguiente, con vista previa.
+- **Últimos clips** en el inicio y galería ordenable por fecha o por juego.
+- **Inicio personalizable**: mueve, ordena u oculta servidor, Spotify, Discord, Gratis ahora y más.
+- **Mensajes**: WhatsApp e Instagram dentro de Mando, ocultos al compartir pantalla.
+- **Discord**: tu llamada actual y las llamadas activas de tus servidores para unirte con un clic.
