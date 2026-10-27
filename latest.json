@@ -1,10 +1,10 @@
 {
-  "version": "0.9.2",
+  "version": "0.10.0",
   "notes": "Mejoras y correcciones",
-  "pub_date": "2026-10-27T02:22:00.701Z",
+  "pub_date": "2026-10-27T02:52:32.968Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaUIvZ1E0U2ZubjJ6eHdRVS9jSEExckxDUjlWKzA2bXErT090d0d3VjlwRnlycVVaaHNla2hic1dva2RjR0twTi9vTG4yUjk1OGZ1UzRGRHZsaDhMTFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDY3Njk5CWZpbGU6TWFuZG9fMC45LjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuOS4yCkJXMWtROFhJYWZjbE5nRmpXZ291ZldoMk1KY0EveFVnTXBFUlR0akdIQWVKOUF6MGdaRGRsR1RFQzNvUjR5QnpKWlNRaWRvMEVnSFk1ZTcrdTJKT0FRPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaUFlN2J4ekJXSWJ1Ukp0akduK29JTlJlME5YSlZXeGtSd2NWbkpHbVBBM1JiYXVHc2pOaDN3V3Z2WjZnUmZRWlZsN1J1MjRGa1RZaDBDdHByMEZxWGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDY5NTUwCWZpbGU6TWFuZG9fMC4xMC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEwLjAKY2pHZjZKUGxOVVd0c2dKak1qNG00TnUwZ3RzRk41VDRhNzFhOGpsYUZrVEpYK0p6ZktFS1Y5UHlsbkhsTUdxNE5nQ1J2YVc0aExTWWRrdTlpM1Z4QVE9PQo=",
       "url": "https://github.com/thefranciscovilches-tech/mando-descargas/releases/latest/download/Mando-instalador.exe"
     }
   }
