@@ -1,10 +1,10 @@
 {
-  "version": "0.11.1",
-  "notes": "- **Sin ventanas de consola**: al grabar o guardar un clip ya no parpadea una ventana negra.\n- **Mostrar en la carpeta** abre la carpeta donde está el video o la foto (antes abría Documentos).\n- Detección del juego como Medal, audio sin desfase y avisos de actualización (de la 0.11.0).",
-  "pub_date": "2026-10-27T03:47:52.217Z",
+  "version": "0.12.0",
+  "notes": "- **Adiós al menú de Edge**: el clic derecho ya no muestra \"Más herramientas\" ni \"Inspeccionar\". En cuadros de texto sale un menú propio: Cortar, Copiar, Pegar y Seleccionar todo.\n- **Sin atajos de navegador**: F5, Ctrl+R, Ctrl+P, Ctrl+F, F12 y el zoom con Ctrl+rueda ya no hacen nada raro. También en WhatsApp, Instagram, YouTube Music y el overlay.\n- **Pantalla completa**: Mando ocupa toda la pantalla y tapa la barra de tareas. Cámbialo con el botón de arriba a la derecha o con F11.",
+  "pub_date": "2026-10-27T04:02:31.935Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaVAvNmZWQzNBcDZwYWR6NmFoUWcyTS8yYnVsd2NJczdRVVI2dEVhQitFMlN4T3ltdnNoTm9vVU4xM1lEekcvQ08valBoS05jeFM1L2Vscis2dG54cmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDcyODcwCWZpbGU6TWFuZG9fMC4xMS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjExLjEKZmYwL3BtUWc4TVFDMXl0RDdaT2s4Z3dyT1hJT1lpZlpIV1FnL01qYWJiY3FlZmh1TERtZzhONGlDV1dSRGxyR1UvYjhWWlZjajlBS2duYzNEUTFKRGc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaU10MGwybnZYL1QzNWFyYjdUeTZKaWY1WGFsak5zMDJBdFZkbzNGZmZ2SkNFZUpJNlEvYXo5VEN2WHl1QytMUWxHQkhZOHVDTWgxcWs5N3UxcEl5MGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDczNzQ5CWZpbGU6TWFuZG9fMC4xMi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEyLjAKS0VkRExySWF0SWI3anVRK2E1N0xzVWgzN3RZNGM5Q2ZJRHhKR3FPMjZYb09NWWtaMXFIZmFJbzBiQW1rVUEzWDVYd2dwYTRFWjlzVncwbk9rdEw2RGc9PQo=",
       "url": "https://github.com/thefranciscovilches-tech/mando-descargas/releases/latest/download/Mando-instalador.exe"
     }
   }
