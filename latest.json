@@ -1,10 +1,10 @@
 {
-  "version": "0.11.0",
-  "notes": "- **Detecta bien el juego** (como Medal): reconoce la ventana del juego que usa DirectX/OpenGL/Vulkan e ignora cosas como EOSOVERLAYRENDER, Steam o Discord.\n- **Elige el juego a mano** si hace falta: Grabador → Juego → Cambiar.\n- **Audio sin desfase**: el audio de los clips ya no suena lento y queda sincronizado con el video.\n- **Avisos de actualización**: cuando haya versión nueva verás una barra con las novedades, un botón arriba y un punto en el logo.",
-  "pub_date": "2026-10-27T03:35:18.558Z",
+  "version": "0.11.1",
+  "notes": "- **Sin ventanas de consola**: al grabar o guardar un clip ya no parpadea una ventana negra.\n- **Mostrar en la carpeta** abre la carpeta donde está el video o la foto (antes abría Documentos).\n- Detección del juego como Medal, audio sin desfase y avisos de actualización (de la 0.11.0).",
+  "pub_date": "2026-10-27T03:47:52.217Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaUhQRkYwSks4UTBEYms4YnJ4S0xldGJGc21POGUyWmFBcithV0svbVNWQ1AwMDU1WG1keG5OODZKcFp1eE9sK21CK1NRL0hLS0JrZ1V1aXp2ejkxaEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDcyMTE2CWZpbGU6TWFuZG9fMC4xMS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjExLjAKbFpsVnVEZ214bVBKRS9saVpDQjR4eVZNaktlQ1VSUEl1anBHcDFIcTdWM3pFWG9YMXU1NTlDU21BbUVhNlVkRWZESUhTQTFDTU9OOThuc3Z5NUZGQ1E9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaVAvNmZWQzNBcDZwYWR6NmFoUWcyTS8yYnVsd2NJczdRVVI2dEVhQitFMlN4T3ltdnNoTm9vVU4xM1lEekcvQ08valBoS05jeFM1L2Vscis2dG54cmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDcyODcwCWZpbGU6TWFuZG9fMC4xMS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjExLjEKZmYwL3BtUWc4TVFDMXl0RDdaT2s4Z3dyT1hJT1lpZlpIV1FnL01qYWJiY3FlZmh1TERtZzhONGlDV1dSRGxyR1UvYjhWWlZjajlBS2duYzNEUTFKRGc9PQo=",
       "url": "https://github.com/thefranciscovilches-tech/mando-descargas/releases/latest/download/Mando-instalador.exe"
     }
   }
