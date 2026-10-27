@@ -1,10 +1,10 @@
 {
-  "version": "0.17.0",
-  "notes": "- **Tu PC** (nueva pestaña en Turbo): limpia archivos basura y cachés con un clic, apaga programas que abren con Windows, avisa si un disco está casi lleno y si el driver de video está viejo.\n- **Windows más liviano**: apaga animaciones, apps de la Tienda escondidas, el uso compartido de actualizaciones y le da prioridad a los juegos.\n- **Mando**: mira cuánta RAM y procesador gasta Mando, y actívale el modo liviano, actualizaciones con calma o cierre automático de WhatsApp, Instagram y YouTube Music.",
-  "pub_date": "2026-10-27T07:18:00.454Z",
+  "version": "0.17.1",
+  "notes": "- **La música se pausa sola al ver un video**: si estás escuchando Spotify, YouTube o YouTube Music y abres un clip en la Galería, la música se detiene; al pausar, silenciar o cerrar el video, vuelve a sonar.\n- Solo reanuda lo que Mando pausó. Se puede apagar en el panel del reproductor de arriba (engranaje).",
+  "pub_date": "2026-10-27T20:06:13.661Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaU9aUXgrQzdvNjBBS2hoSmZMeEhCb2VFNUhvdmhCc2pxTU1yYVMwdXh5eVJ0VnZCd1hsdndPY0gxK1ltTFVwQzZOVlhjclh2VHVLS2dxT0k0VHdzZkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDg1NDc4CWZpbGU6TWFuZG9fMC4xNy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjE3LjAKRnI5OHliVWl5NzlKQVpFMzhXWi9XTG83RkhGWDZxMU4rampwejZPU1V2MnZSa2tPMGh4VmlXZnY0Vjdtc3dmREkrWTVTcGFTYk9mV3ZocFBXTDFYRHc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaUZxOXROYWJDL1RsYUh5Q2JRbXJ5Q2ZqekYydjV4YnFLL0lFUG1CaExlVzNzM2trRHFFWXFGTFFtOEp3ajk1RjAvVnZUYzk0a2tzRnBPckkzWUlFNVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTMxNTcxCWZpbGU6TWFuZG9fMC4xNy4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjE3LjEKdThQRjNhR3lCZlN2a0w1VUNlTG5xaXVRSlBRT1E2NG1EUXZ6M2t5V1NLLzZteStFdlVTaFc0bGRoZlJUaFVwcGJUNGtJMEE5Wjh6aFd5OUYrZjVnQVE9PQo=",
       "url": "https://github.com/thefranciscovilches-tech/mando-descargas/releases/latest/download/Mando-instalador.exe"
     }
   }
