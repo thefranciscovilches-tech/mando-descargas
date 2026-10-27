@@ -1,10 +1,10 @@
 {
-  "version": "0.13.0",
-  "notes": "- **Reproductor en la barra de arriba**: lo que suena en Spotify, YouTube Music o el navegador se ve en todas las pestañas, con anterior, pausa y siguiente.\n- **Volumen por app**: la rueda del mouse sobre el reproductor sube o baja el volumen de esa app, sin tocar el del juego ni el de Discord.\n- **Mezclador**: un clic en el reproductor muestra todas las apps con sonido para bajarles el volumen o silenciarlas.\n- **Configurable** desde el engranaje del panel: completo, compacto o solo ícono; qué fuentes mostrar; ocultar en pausa.",
-  "pub_date": "2026-10-27T05:25:20.728Z",
+  "version": "0.14.0",
+  "notes": "- **Turbo para juegos** (nueva pestaña): al abrir un juego, Mando le da prioridad alta, sube la energía a Alto rendimiento, libera RAM y cierra las apps que elijas. Al cerrarlo, todo vuelve a como estaba.\n- **Windows para jugar**: revisa los ajustes que cambian FPS (Modo de juego, grabación de fondo de Xbox, juegos en ventana, GPU) y los arregla con un clic.\n- **Por juego**: usar la tarjeta de video potente y desactivar optimizaciones de pantalla completa.\n- **Mando más liviano**: mientras juegas con Mando atrás casi no gasta procesador ni memoria.",
+  "pub_date": "2026-10-27T05:50:52.063Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaUJsdVZWamYyamJEY3Z6cjNrd2dyNU9GTUcwWGtHUEV4ajQ0YUhENFJDeWN6THNMODk2UlhOeTVDLzB1R0Rsekt3QmVsYXhFNXZSUzZscXpqSFZHanc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDc4NzE4CWZpbGU6TWFuZG9fMC4xMy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEzLjAKZ3IxZkc1YzZjV0hsa2FEWjRtYlJWc3d3djZ5QUJNU0N2M0JMVmxTYzIwQW8wekNBeTZCTWpsQWZrNFVBNUVzRWpTNEVCVTdEL2tTdE5BUXlGUW1WQUE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaUFYaTY4ZDRNU21LYzVSU2tRU3VrQ0NqOXpVWmIyL0hBeDJTOG1KWk1MZ29uN0grN05Va00vOFhzYm9NTVhnVE9yemV1RzRabnlFRXJNOWVKd2xBL0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDgwMjQ4CWZpbGU6TWFuZG9fMC4xNC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjE0LjAKQWZQTHc4ZWtNTXk2N2ZIMm9JQmFqZW1uTXB5aFJrRUxRN1JOV2hBdnkyMlJ0YTVGY3FqQ1JJaG1VdGVDWlNlM25Pam0wUTZkankwWXZQa1ZCVisvRHc9PQo=",
       "url": "https://github.com/thefranciscovilches-tech/mando-descargas/releases/latest/download/Mando-instalador.exe"
     }
   }
