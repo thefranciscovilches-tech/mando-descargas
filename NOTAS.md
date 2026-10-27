@@ -1,12 +1,10 @@
-## Mando 0.8
+## Mando 0.9
 
 **Descarga `Mando-instalador.exe`** y ábrelo. Se instala solo (sin permisos de administrador) y después **se actualiza solo**.
 
 Si Windows muestra "Windows protegió su PC": **Más información → Ejecutar de todas formas**.
 
 ### Novedades
-- **Reloj**: alarmas, temporizadores y cronómetro. Suenan aunque Mando esté minimizado.
-- **Música**: YouTube Music dentro de Mando, sin abrir el navegador.
-- **Discord**: llamadas y mensajes lado a lado.
-- **Recortes** a 60 fps, 30 fps o como el original.
-- Más liviano en segundo plano.
+- **Overlay en juego**: llamada de Discord, música, avisos de mensajes, FPS, rendimiento y hora encima de tus juegos (en ventana o sin bordes). Se edita en pantalla. Ctrl+Shift+O lo muestra u oculta.
+- **Contador de FPS** sin tocar el juego.
+- **Vigía de NVIDIA**: te avisa (y puede reactivarla) si la repetición instantánea se apaga sola.
