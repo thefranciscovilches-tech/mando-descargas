@@ -1,10 +1,10 @@
 {
-  "version": "0.18.0",
-  "notes": "- **Cambiar el atajo es más fácil**: ahora eliges paso a paso (Ctrl, Alt o Shift + una letra, número o F1–F12) con un teclado en pantalla, ideas rápidas y aviso si la combinación ya la usa otro programa.\n- Mejoras visuales y arreglos menores.",
-  "pub_date": "2026-10-28T22:59:51.714Z",
+  "version": "0.18.1",
+  "notes": "- Arreglos menores.",
+  "pub_date": "2026-10-28T23:09:07.649Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaUY5WWEvV21iS3JUcHZ6ei9NR0J1eUR4NjNGWUZzWGFZNU1uQXV4ZEYwcFE0cVJxRFROaGxpU0Naazd5aDk4SlB5WW9ucFhCQkZkMmRVbzhMU0pkQndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjI4Mzg2CWZpbGU6TWFuZG9fMC4xOC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjE4LjAKYkR1MUY2Q2NzVkpHdjNvcVVMekw0dFllVllFVzhkT0l3MXNRRVVTblhvaUw5TFJybEtpbzhKY1YzMTIwdFlabTgrTGlSV0MzSFNUNEZ2V3d3WWdlQ1E9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaUMyM2g1d21ScEtMQTBVUDQ1VzB4My9SYlBaS2QzTnNZVEh2dDdCK3kvaTZ4ZEQ3aHdYK1Z3aDFRUFVMOENhMTdJdUM0NGhDZ3VNc1dNMG1wTk1mTGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjI4OTQ1CWZpbGU6TWFuZG9fMC4xOC4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjE4LjEKdmVwMzVldmk1UWZDbEJ5MmRBZVZhcGxpSDNtR3NndkVXRWN6SlZiM1pTVngxUVlicVZTTVlrMGVkc2VEYzVJUXpVOUZZc3V2NDZKOFU3NGh3ejhUQ2c9PQo=",
       "url": "https://github.com/thefranciscovilches-tech/mando-descargas/releases/latest/download/Mando-instalador.exe"
     }
   }
