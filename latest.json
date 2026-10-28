@@ -1,10 +1,10 @@
 {
-  "version": "0.17.1",
-  "notes": "- **La música se pausa sola al ver un video**: si estás escuchando Spotify, YouTube o YouTube Music y abres un clip en la Galería, la música se detiene; al pausar, silenciar o cerrar el video, vuelve a sonar.\n- Solo reanuda lo que Mando pausó. Se puede apagar en el panel del reproductor de arriba (engranaje).",
-  "pub_date": "2026-10-27T20:06:13.661Z",
+  "version": "0.17.2",
+  "notes": "- **Arreglado: música y videos**: ya no se cruzan los audios. La música se pausa al ver un video y vuelve sola al terminar, también al pasar rápido de un clip a otro.\n- **Recortes más livianos**: al recortar eliges el peso: Original, Liviano (casi igual calidad, mucho menos peso) o Para Discord (queda bajo 10 MB).",
+  "pub_date": "2026-10-28T02:18:07.133Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaUZxOXROYWJDL1RsYUh5Q2JRbXJ5Q2ZqekYydjV4YnFLL0lFUG1CaExlVzNzM2trRHFFWXFGTFFtOEp3ajk1RjAvVnZUYzk0a2tzRnBPckkzWUlFNVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTMxNTcxCWZpbGU6TWFuZG9fMC4xNy4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjE3LjEKdThQRjNhR3lCZlN2a0w1VUNlTG5xaXVRSlBRT1E2NG1EUXZ6M2t5V1NLLzZteStFdlVTaFc0bGRoZlJUaFVwcGJUNGtJMEE5Wjh6aFd5OUYrZjVnQVE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaUEyU0F4aUYvSEs3RmRiYU4zajJpeXJBRml0QXRRb2dDd0RaVnVhMTRHcUc2TzhyUHZlbER6QkQ4NUFJNVE3dWdTQkFJVmQxR2FXemt2d2ZneUF5b0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTUzODg1CWZpbGU6TWFuZG9fMC4xNy4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjE3LjIKTnFMU2tpSFNsaS9jejJUamJxMTByYnZZaXdXbFZRZCtHdXRqMGdkUFN3TklkZGRpSWN2MUZhaS8yWk5pLytHMzEvUDdXa2ZqRVYwc3NjcnJyaklvQXc9PQo=",
       "url": "https://github.com/thefranciscovilches-tech/mando-descargas/releases/latest/download/Mando-instalador.exe"
     }
   }
