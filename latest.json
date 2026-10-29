@@ -1,10 +1,10 @@
 {
-  "version": "0.18.1",
-  "notes": "- Arreglos menores.",
-  "pub_date": "2026-10-28T23:09:07.649Z",
+  "version": "0.19.0",
+  "notes": "- **Lo que escuchas, en tu Discord**: Mando muestra en tu perfil \"Escuchando\" con la canción, el artista, la carátula, la barra de tiempo y un botón para escucharla. Con videos del navegador dice \"Viendo\".\n- Actívalo en el reproductor de arriba → \"Mostrar en Discord\" (necesita Discord conectado en Mando). Se quita sola al pausar.",
+  "pub_date": "2026-10-29T01:45:06.193Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaUMyM2g1d21ScEtMQTBVUDQ1VzB4My9SYlBaS2QzTnNZVEh2dDdCK3kvaTZ4ZEQ3aHdYK1Z3aDFRUFVMOENhMTdJdUM0NGhDZ3VNc1dNMG1wTk1mTGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjI4OTQ1CWZpbGU6TWFuZG9fMC4xOC4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjE4LjEKdmVwMzVldmk1UWZDbEJ5MmRBZVZhcGxpSDNtR3NndkVXRWN6SlZiM1pTVngxUVlicVZTTVlrMGVkc2VEYzVJUXpVOUZZc3V2NDZKOFU3NGh3ejhUQ2c9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaUxRSm1GTE5Qcm84Y2I5dHQ2M21KUmorZFdiclN0TG9ZWXQ5M2xaRXNLS2RYV1hNQjkwRTE5cXhXa3dtamlEUnZYMXVhZXc2SEQxZm04OGpYeHN0eWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjM4MzA0CWZpbGU6TWFuZG9fMC4xOS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjE5LjAKMWtXUkM0TEhIMDZWNDQ2SGwvV1djZ3RlUS9jY3dOT3kyN24yOGFsdkJDS1dMSElwaDZpdUFDMXB2b292WkNEOTlYbDBUZmdFVTN0MjVEeWZvVVJ2RFE9PQo=",
       "url": "https://github.com/thefranciscovilches-tech/mando-descargas/releases/latest/download/Mando-instalador.exe"
     }
   }
