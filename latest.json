@@ -1,10 +1,10 @@
 {
-  "version": "0.20.0",
-  "notes": "- **Mando ahora es ZÉNIT**: nombre y logo nuevos, estilo retro. Todo lo tuyo se mantiene igual.\n- **Discord**: dice \"Escuchando\" con la canción (también desde el navegador). Y si estás jugando: \"Jugando a ZÉNIT\" con el juego, el tiempo de partida y lo que escuchas.",
-  "pub_date": "2026-10-29T02:01:34.035Z",
+  "version": "0.20.1",
+  "notes": "- **Arreglado: la actividad de Discord no aparecía**: si Discord no acepta algún detalle, ZÉNIT prueba solo una versión más simple hasta que se vea. Si aun así falla, el motivo aparece en el panel del reproductor.",
+  "pub_date": "2026-10-29T03:07:04.583Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaUsrYnFwa29ROHQrbnRrMklaY2F1VWxpclNjQjFQbmNERnZpL081eDlRZDF3RzMrclo1bHdmTEdtZm1XZXJIMFkwUDRXOStJcmo5LzcrN25CS1AxL2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjM5MjkwCWZpbGU6TWFuZG9fMC4yMC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIwLjAKR29aMXlxekhnSGh3SjlZaG5NekdvZ29JeU9qQ3ZLTkIvNFVKeVBaZGFJamcxakl6ODByV0g0NGUwR3kxUFlJa2IyUG9yaWEvQzRGd0czb1R0RnJZRFE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaUtFcjFGMlhKYmZVenZqQkxPSkFOZm1HSnFSOEp2T0IrK2ZNYy9HeTFENmxEN1ZESTlRWUp5M3ZOUUFwd1hockNHMUh5RXFaS3hRZEEzLzVGMTdmaXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjQzMjIyCWZpbGU6TWFuZG9fMC4yMC4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIwLjEKMytUQUZzbGFObWY3NFI4M09FKzR1clNuSEcwRW9uQTNXOW1BSnl3aFE3VW1oQ2R4Lysvb0tYaG5Xa2ZFdHRpVEZQenk2RTVYbGRVQXY4RysyK1NYQ1E9PQo=",
       "url": "https://github.com/thefranciscovilches-tech/mando-descargas/releases/latest/download/Mando-instalador.exe"
     }
   }
