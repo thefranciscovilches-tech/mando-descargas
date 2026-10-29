@@ -1,10 +1,10 @@
 {
-  "version": "0.20.2",
-  "notes": "- **Overlay**: ahora solo aparece encima del juego, y nunca sobre ZÉNIT, Discord ni Brave (lo cambias en Overlay → \"Nunca sobre\").\n- **Detección de juegos más estricta** y botón **\"No es un juego\"** en la píldora \"Jugando…\" de arriba.\n- **Discord**: al empezar un juego, ZÉNIT vuelve a publicar su actividad para quedar por encima de la de FiveM/GTA.",
-  "pub_date": "2026-10-29T03:38:10.175Z",
+  "version": "0.20.3",
+  "notes": "- **Elige qué mensajes de Discord te llegan, servidor por servidor**: pasa el mouse por un mensaje y toca la campanita para decidir qué llega de ese servidor (todo, solo menciones, solo en ZÉNIT o nada). En Discord no se silencia nada.\n- El mismo ajuste ahora también está en **Overlay → Mensajes de Discord → Qué me llega…**.",
+  "pub_date": "2026-10-29T04:05:19.965Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaU91aTN2OHlrMks4c0U0Y2Z2S2pTaDN6Zm11aU01aDZCS0c4VTFzeWV1VmxDTUJua2hjT0JwbHBXWVI0UCs4WStPYkE0Ni9uenBpUnh6K3p5YjRmUFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjQ1MDg4CWZpbGU6TWFuZG9fMC4yMC4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIwLjIKSE01a2dUbGJSam9RelYyd0xPUUU2aDkrWlBoem93NU11ZUVwYTJEeGNReVIxNVFsRUZoMVBQS3pRSTFVeFJmNEhaNzdFK1lIbGNhY1prQnhQRDZUQnc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaU03UGZCN3RtWEZaRmwxU0pSNjdDcUdFMzh5dy94bEhyUTl6RFdvY2hpNlArejJZY2ZkODFZMlJVb01BNitBTlJ1dGhNWEJCd3p6elVLUXJjZHVEMXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjQ2NzE4CWZpbGU6TWFuZG9fMC4yMC4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIwLjMKcGJSVTVzNGpURUFLKzFycU5CekxVQXkybTc1UWlWS0RDeWttbDc2Q2gvOVRtUUsvcG5tZGt4YWwzS0NHWlJ5Qk85dG4rdk8vaU82eTNDNE9EbmRzRGc9PQo=",
       "url": "https://github.com/thefranciscovilches-tech/mando-descargas/releases/latest/download/Mando-instalador.exe"
     }
   }
