@@ -1,10 +1,10 @@
 {
-  "version": "0.20.1",
-  "notes": "- **Arreglado: la actividad de Discord no aparecía**: si Discord no acepta algún detalle, ZÉNIT prueba solo una versión más simple hasta que se vea. Si aun así falla, el motivo aparece en el panel del reproductor.",
-  "pub_date": "2026-10-29T03:07:04.583Z",
+  "version": "0.20.2",
+  "notes": "- **Overlay**: ahora solo aparece encima del juego, y nunca sobre ZÉNIT, Discord ni Brave (lo cambias en Overlay → \"Nunca sobre\").\n- **Detección de juegos más estricta** y botón **\"No es un juego\"** en la píldora \"Jugando…\" de arriba.\n- **Discord**: al empezar un juego, ZÉNIT vuelve a publicar su actividad para quedar por encima de la de FiveM/GTA.",
+  "pub_date": "2026-10-29T03:38:10.175Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaUtFcjFGMlhKYmZVenZqQkxPSkFOZm1HSnFSOEp2T0IrK2ZNYy9HeTFENmxEN1ZESTlRWUp5M3ZOUUFwd1hockNHMUh5RXFaS3hRZEEzLzVGMTdmaXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjQzMjIyCWZpbGU6TWFuZG9fMC4yMC4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIwLjEKMytUQUZzbGFObWY3NFI4M09FKzR1clNuSEcwRW9uQTNXOW1BSnl3aFE3VW1oQ2R4Lysvb0tYaG5Xa2ZFdHRpVEZQenk2RTVYbGRVQXY4RysyK1NYQ1E9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaU91aTN2OHlrMks4c0U0Y2Z2S2pTaDN6Zm11aU01aDZCS0c4VTFzeWV1VmxDTUJua2hjT0JwbHBXWVI0UCs4WStPYkE0Ni9uenBpUnh6K3p5YjRmUFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjQ1MDg4CWZpbGU6TWFuZG9fMC4yMC4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIwLjIKSE01a2dUbGJSam9RelYyd0xPUUU2aDkrWlBoem93NU11ZUVwYTJEeGNReVIxNVFsRUZoMVBQS3pRSTFVeFJmNEhaNzdFK1lIbGNhY1prQnhQRDZUQnc9PQo=",
       "url": "https://github.com/thefranciscovilches-tech/mando-descargas/releases/latest/download/Mando-instalador.exe"
     }
   }
