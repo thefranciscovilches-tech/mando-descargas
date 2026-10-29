@@ -1,9 +1,9 @@
-## Mando 0.19
+## ZÉNIT 0.20
 
 **Descarga `Mando-instalador.exe`** y ábrelo. Se instala solo (sin permisos de administrador) y después **se actualiza solo**.
 
 Si Windows muestra "Windows protegió su PC": **Más información → Ejecutar de todas formas**.
 
 ### Novedades
-- **Lo que escuchas, en tu Discord**: Mando muestra en tu perfil "Escuchando" con la canción, el artista, la carátula, la barra de tiempo y un botón para escucharla. Con videos del navegador dice "Viendo".
-- Actívalo en el reproductor de arriba → "Mostrar en Discord" (necesita Discord conectado en Mando). Se quita sola al pausar.
+- **Mando ahora es ZÉNIT**: nombre y logo nuevos, estilo retro. Todo lo tuyo se mantiene igual.
+- **Discord**: dice "Escuchando" con la canción (también desde el navegador). Y si estás jugando: "Jugando a ZÉNIT" con el juego, el tiempo de partida y lo que escuchas.

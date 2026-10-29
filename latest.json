@@ -1,10 +1,10 @@
 {
-  "version": "0.19.0",
-  "notes": "- **Lo que escuchas, en tu Discord**: Mando muestra en tu perfil \"Escuchando\" con la canción, el artista, la carátula, la barra de tiempo y un botón para escucharla. Con videos del navegador dice \"Viendo\".\n- Actívalo en el reproductor de arriba → \"Mostrar en Discord\" (necesita Discord conectado en Mando). Se quita sola al pausar.",
-  "pub_date": "2026-10-29T01:45:06.193Z",
+  "version": "0.20.0",
+  "notes": "- **Mando ahora es ZÉNIT**: nombre y logo nuevos, estilo retro. Todo lo tuyo se mantiene igual.\n- **Discord**: dice \"Escuchando\" con la canción (también desde el navegador). Y si estás jugando: \"Jugando a ZÉNIT\" con el juego, el tiempo de partida y lo que escuchas.",
+  "pub_date": "2026-10-29T02:01:34.035Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaUxRSm1GTE5Qcm84Y2I5dHQ2M21KUmorZFdiclN0TG9ZWXQ5M2xaRXNLS2RYV1hNQjkwRTE5cXhXa3dtamlEUnZYMXVhZXc2SEQxZm04OGpYeHN0eWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjM4MzA0CWZpbGU6TWFuZG9fMC4xOS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjE5LjAKMWtXUkM0TEhIMDZWNDQ2SGwvV1djZ3RlUS9jY3dOT3kyN24yOGFsdkJDS1dMSElwaDZpdUFDMXB2b292WkNEOTlYbDBUZmdFVTN0MjVEeWZvVVJ2RFE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaUsrYnFwa29ROHQrbnRrMklaY2F1VWxpclNjQjFQbmNERnZpL081eDlRZDF3RzMrclo1bHdmTEdtZm1XZXJIMFkwUDRXOStJcmo5LzcrN25CS1AxL2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjM5MjkwCWZpbGU6TWFuZG9fMC4yMC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIwLjAKR29aMXlxekhnSGh3SjlZaG5NekdvZ29JeU9qQ3ZLTkIvNFVKeVBaZGFJamcxakl6ODByV0g0NGUwR3kxUFlJa2IyUG9yaWEvQzRGd0czb1R0RnJZRFE9PQo=",
       "url": "https://github.com/thefranciscovilches-tech/mando-descargas/releases/latest/download/Mando-instalador.exe"
     }
   }
