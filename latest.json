@@ -1,10 +1,10 @@
 {
-  "version": "0.20.4",
-  "notes": "- **Discord ahora dice ZÉNIT** (ya no \"Mando\").\n- **Estado nuevo al jugar**: el juego con el servidor de FiveM y cuántos jugadores hay (por ej. \"487 de 1024\"), una segunda línea que va cambiando (FPS, \"Potenciado por ZÉNIT\") o la canción que suena, y un botón **⚡ Descargar ZÉNIT**.\n- **Nunca mostrar en Discord**: lista de apps o juegos que no salen en tu estado (Vigilia viene incluida). Está en el reproductor de arriba → ⚙.",
-  "pub_date": "2026-10-29T05:23:52.326Z",
+  "version": "0.20.5",
+  "notes": "- **Actividad de Discord animada**: el logo de ZÉNIT se mueve (sol, grilla y destello), con un ecualizador cuando suena música y un control cuando juegas.\n- La segunda línea va cambiando sola (artista → disco → de dónde suena; al jugar: FPS, servidor…).\n- Se quitó el botón \"Descargar ZÉNIT\".",
+  "pub_date": "2026-10-29T10:55:35.135Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaUhSZHdld3hyYzByaS9GWDlEUktLZWpQN0U4am9rSC9kY0VHQkFqc3hqU09JMi9VVnpFdkRLYkJ6Z2NhVzluNFVxRXA0WVRDelhySlNzUVJmVGpCeFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjUxNDMwCWZpbGU6TWFuZG9fMC4yMC40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIwLjQKZzIwdlNGSmJDVmpqdlVsd1o4TDN4MnZsdHpNdC9qNFVac05sV3FzMWNQb0Vsa2g3a0tNTmdWeWVFTGJ6ZXVENFFmeGZHZEFkNGh5VkwzbTZYMEcvQWc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaU9nVndxWXRTKzUrdGt6TmFCVFErRDE5NitEdkFXUXdYeGJiTDg0Sk5jZ0xiY1Q5cVh4bkV3N2todHZhY2o3eGJETCtvc1J4ZFlvc0dRN0xrZEhmM2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjcxMzMzCWZpbGU6TWFuZG9fMC4yMC41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIwLjUKWDAzK3BKMHlLRmI5U09Zd2I0NU5LOVFqSDZ1dmMvd3pvQzY0NkU3L1lwMUZzcmkwS0h2a0g0dzFidC95QXRqVjA5OGVWR3RhOVlZOForanBBb0tSQnc9PQo=",
       "url": "https://github.com/thefranciscovilches-tech/mando-descargas/releases/latest/download/Mando-instalador.exe"
     }
   }
