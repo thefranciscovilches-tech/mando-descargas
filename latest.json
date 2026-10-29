@@ -1,10 +1,10 @@
 {
-  "version": "0.20.3",
-  "notes": "- **Elige qué mensajes de Discord te llegan, servidor por servidor**: pasa el mouse por un mensaje y toca la campanita para decidir qué llega de ese servidor (todo, solo menciones, solo en ZÉNIT o nada). En Discord no se silencia nada.\n- El mismo ajuste ahora también está en **Overlay → Mensajes de Discord → Qué me llega…**.",
-  "pub_date": "2026-10-29T04:05:19.965Z",
+  "version": "0.20.4",
+  "notes": "- **Discord ahora dice ZÉNIT** (ya no \"Mando\").\n- **Estado nuevo al jugar**: el juego con el servidor de FiveM y cuántos jugadores hay (por ej. \"487 de 1024\"), una segunda línea que va cambiando (FPS, \"Potenciado por ZÉNIT\") o la canción que suena, y un botón **⚡ Descargar ZÉNIT**.\n- **Nunca mostrar en Discord**: lista de apps o juegos que no salen en tu estado (Vigilia viene incluida). Está en el reproductor de arriba → ⚙.",
+  "pub_date": "2026-10-29T05:23:52.326Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaU03UGZCN3RtWEZaRmwxU0pSNjdDcUdFMzh5dy94bEhyUTl6RFdvY2hpNlArejJZY2ZkODFZMlJVb01BNitBTlJ1dGhNWEJCd3p6elVLUXJjZHVEMXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjQ2NzE4CWZpbGU6TWFuZG9fMC4yMC4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIwLjMKcGJSVTVzNGpURUFLKzFycU5CekxVQXkybTc1UWlWS0RDeWttbDc2Q2gvOVRtUUsvcG5tZGt4YWwzS0NHWlJ5Qk85dG4rdk8vaU82eTNDNE9EbmRzRGc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaUhSZHdld3hyYzByaS9GWDlEUktLZWpQN0U4am9rSC9kY0VHQkFqc3hqU09JMi9VVnpFdkRLYkJ6Z2NhVzluNFVxRXA0WVRDelhySlNzUVJmVGpCeFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjUxNDMwCWZpbGU6TWFuZG9fMC4yMC40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIwLjQKZzIwdlNGSmJDVmpqdlVsd1o4TDN4MnZsdHpNdC9qNFVac05sV3FzMWNQb0Vsa2g3a0tNTmdWeWVFTGJ6ZXVENFFmeGZHZEFkNGh5VkwzbTZYMEcvQWc9PQo=",
       "url": "https://github.com/thefranciscovilches-tech/mando-descargas/releases/latest/download/Mando-instalador.exe"
     }
   }
