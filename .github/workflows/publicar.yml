@@ -1,0 +1,32 @@
+# Publica una versión de Mando: toma los archivos de la rama "publicar" y crea la versión
+# (release) con ellos. La rama se reemplaza en cada versión, así el repositorio no crece.
+name: Publicar versión
+
+on:
+  push:
+    branches: [publicar]
+
+permissions:
+  contents: write
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: publicar
+      - name: Leer versión
+        id: v
+        run: echo "version=$(jq -r .version latest.json)" >> "$GITHUB_OUTPUT"
+      - uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v${{ steps.v.outputs.version }}
+          target_commitish: main
+          name: Mando ${{ steps.v.outputs.version }}
+          body_path: NOTAS.md
+          make_latest: true
+          files: |
+            Mando-instalador.exe
+            Mando.exe
+            latest.json

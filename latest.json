@@ -1,0 +1,11 @@
+{
+  "version": "0.40.0",
+  "notes": "- Cuatro diseños de HUD nuevos en la galería, dos sobrios y dos inspirados en juegos, todos con un reloj horizontal grande (hora y fecha) abajo a la izquierda:\n  - Bruma: limpio y sin ruido, pocos colores, velocímetro mínimo.\n  - Cobalto: sobrio con un solo color (azul cobalto) y velocímetro de barra.\n  - Comando: táctico en ámbar, con corchetes en el minimapa y velocímetro circular.\n  - Fósforo: pantalla de terminal verde, tipografía monoespaciada y reloj con brillo.",
+  "pub_date": "2026-11-06T06:48:00.849Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzFxbzRnTWFLaURGR3FnTm54Y0R6NXB3Z0JINFRHSWxDaEZodkJxQnJjalRmVUlqNTYvUlJJMHkzSUduY2VaNmZyYzJlWFFiZ1R6Z3J5dGtxRnk5dkNHTE0vWmpKQUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTQ3Njc5CWZpbGU6TWFuZG9fMC40MC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQwLjAKZ2dBd2pOS1YwckhqenRJNGdSZXNMZlgwQ0F0bUZCdkkrQ0loQ0dWRXBGa3dsRW1MTXhpeGt1aXJhamdyWEVwVVVDZG9WK1I5US9COENHRTZ1VTY3REE9PQo=",
+      "url": "https://github.com/thefranciscovilches-tech/mando-descargas/releases/latest/download/Mando-instalador.exe"
+    }
+  }
+}
